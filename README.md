@@ -1,5 +1,10 @@
 # MRI-CT-project
 
+
+
+Disclaimer i used this project https://github.com/kaledhoshme123/VAE-CycleGAN-MRI-CT-Scan-Images
+for ref and learning part
+
 ### Project: Generating CT Images from MRI Images Using VAE-CycleGAN
 
 This study focuses on generating CT images from MRI images through the use of VAE-CycleGAN, leveraging unsupervised learning to address the challenge of limited dataset size. The inherent epistemic uncertainty due to the small sample size necessitates the use of probabilistic models for forming the latent space.
@@ -45,6 +50,22 @@ The model achieved promising results in generating CT images from MRI images, de
 
 This study highlights the effectiveness of using VAE-CycleGAN for generating CT images from MRI images. The enhancements in the discriminator structure and the use of data augmentation were critical in overcoming the challenges posed by the limited dataset size. The approach demonstrates the potential for improved medical imaging techniques, particularly in scenarios where acquiring paired MRI and CT images is impractical.
 
----
 
-This modified project description provides a comprehensive overview of your study, focusing on generating CT images from MRI images using VAE-CycleGAN, without referencing any other projects
+
+
+
+
+![Screenshot from 2024-06-07 19-51-51](https://github.com/surenoobster/MRI-CT-project/assets/154669584/3feba7b1-a085-4259-beb9-03be86bc5ac6)
+
+pic from training phase 
+
+
+![Screenshot from 2024-06-07 19-52-12](https://github.com/surenoobster/MRI-CT-project/assets/154669584/e5001c1e-efe7-4b1e-896f-333dd0b3ff13)
+
+pic from generation part
+
+
+
+![Screenshot from 2024-06-07 19-52-12](https://github.com/surenoobster/MRI-CT-project/assets/154669584/e5001c1e-efe7-4b1e-896f-333dd0b3ff13)
+
+generating CT to MRI 
